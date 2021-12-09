@@ -2,27 +2,27 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-   <key>items</key>
-   <array>
-       <dict>
-           <key>assets</key>
-           <array>
-               <dict>
-                   <key>kind</key>
-                   <string>software-package</string>
-                   <key>url</key>
-                   <string>http://qcd.cloud.qiyi.domain/api/v2/pipelines/14754/builds/1627616/products/QIYiVideo_enterprise_ipa</string>
-               </dict>
-          </array><key>metadata</key>
-           <dict>
-               <key>bundle-identifier</key>
-               <string>com.iqiyi.toolkit.devicemanage</string>
-               <key>kind</key>
-               <string>software</string>
-               <key>title</key>
-               <string>ios测试包</string>
-           </dict>
-       </dict>
-   </array>
-</dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://qcd.cloud.qiyi.domain/api/v2/pipelines/14754/builds/1627616/products/QIYiVideo_enterprise_ipa</string>
+                </dict>
+            </array><key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.iqiyi.iphone</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>iQiYi</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
 </plist>
